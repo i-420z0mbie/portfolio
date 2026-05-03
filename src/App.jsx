@@ -11,7 +11,7 @@ import { SiTailwindcss, SiFigma, SiMongodb, SiTensorflow } from "react-icons/si"
 // ---------- Replace with your actual profile image ----------
 import profileImg from "./assets/profile.jpg"; 
 import lenz from "./assets/lenz.png"
-import logo from "./assets/logo.png"
+import logo from "./assets/Logo.png"
 import orphan from "./assets/orphan.jpg"
 import casaz from "./assets/casaz.jpg"
 
